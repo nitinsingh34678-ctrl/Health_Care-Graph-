@@ -1,0 +1,21 @@
+Patient_ID,Name,Age,Gender,Blood_Group,Disease,Blood_Pressure,Bill_Amount
+1,Amit Sharma,45,Male,A+,Diabetes,130/85,25000
+2,Neha Verma,30,Female,B+,Asthma,120/80,18000
+3,Rohit Singh,52,Male,O+,Hypertension,145/90,32000
+4,Priya Patel,28,Female,AB+,Anemia,110/70,15000
+5,Suresh Kumar,60,Male,A-,Heart Disease,150/95,55000
+6,Anjali Mehta,35,Female,B-,Migraine,118/78,20000
+7,Vikas Gupta,40,Male,O-,Back Pain,125/82,22000
+8,Kavita Joshi,50,Female,A+,Thyroid,135/88,27000
+9,Rahul Malhotra,33,Male,B+,Allergy,122/80,16000
+10,Pooja Nair,47,Female,O+,Arthritis,140/90,30000
+11,Manoj Yadav,55,Male,AB-,Kidney Stone,138/85,40000
+12,Sneha Iyer,26,Female,A+,Fever,115/75,12000
+13,Deepak Chauhan,62,Male,B-,COPD,148/92,48000
+14,Rina Das,38,Female,O+,PCOS,124/80,23000
+15,Arjun Rao,29,Male,A+,Fracture,120/78,35000
+16,Meena Kulkarni,44,Female,AB+,Hypertension,142/90,31000
+17,Karan Kapoor,36,Male,B+,Gastritis,126/82,19000
+18,Sunita Mishra,58,Female,O-,Diabetes,146/94,42000
+19,Naveen Reddy,41,Male,A-,Liver Disorder,140/88,39000
+20,Alka Jain,34,Female,B+,UTI,118/76,17000
